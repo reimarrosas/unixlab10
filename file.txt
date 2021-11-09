@@ -8,3 +8,5 @@ This is a sample sentence.
 This is a sample sentence.
 This is a sample sentence.
 This is a sample sentence.
+
+This is a sentence added by backupreimar for conflict.
